@@ -44,7 +44,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files
-.env*
 !.env.example
 
 # server provider config (contains API keys)
@@ -60,7 +59,6 @@ next-env.d.ts
 
 # IDE
 .idea
-.vscode
 
 # worktrees
 .worktrees
@@ -71,3 +69,4 @@ next-env.d.ts
 
 # docs
 /docs
+config.bat
